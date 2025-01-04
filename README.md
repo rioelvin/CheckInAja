@@ -4,7 +4,7 @@
 Mata Kuliah : Pemrograman Mobile 1
 Dosen       : Donny Maulana, S.Kom., M.M.S.I.
 Nama        : Rio Elvin Prasetya
-NIM         : 
+NIM         : 312310275
 ```
 --------------------------
 # StoryBoard  
@@ -14,4 +14,6 @@ NIM         :
 # UI  
   
 Hyperlink masing-masing penjelasan lengkap setiap activity : 
-- [Penjelasan Menu](read/readMainActicvity.md)
+- [Penjelasan Main Actvity](read/readMainActicvity.md)
+- [Penjelasan Second Activity](read/readActicvity2.md)
+- [Penjelasan Third Activity](read/readActicvity3.md)
