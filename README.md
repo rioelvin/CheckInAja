@@ -14,3 +14,4 @@ NIM         :
 # UI  
   
 Hyperlink masing-masing penjelasan lengkap setiap activity : 
+- [Penjelasan Menu](read/readMainActicvity.md)
