@@ -1,6 +1,6 @@
 # Main Activity  
 Hyperlink lokasi kode program Main Activity.  
-[Link Kode MainActivity](../app/src/main/java/hotel/review/appandroid/MainActivity.java)
+[Kode Program MainActivity](../app/src/main/java/hotel/review/appandroid/MainActivity.java)
 
 Kode di atas adalah implementasi dari sebuah MainActivity untuk aplikasi Android bernama "Hotel Review." Aplikasi ini dirancang menggunakan bahasa Java dengan Android SDK. MainActivity mengatur tampilan utama aplikasi, termasuk elemen visual seperti CardView, ImageView, TextView, dan SearchView, serta memberikan animasi untuk meningkatkan pengalaman pengguna.
 
