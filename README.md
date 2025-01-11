@@ -7,6 +7,23 @@ Nama        : Rio Elvin Prasetya
 NIM         : 312310275
 ```
 --------------------------
+
+# CheckInAja
+- Deskripsi Aplikasi :  
+Aplikasi ini adalah aplikasi untuk melihat rating atau preview hotel
+
+- Fungsi :  
+Pengguna dapat mengetahui foto, fasilitas, dan deskripsi akomodasi, serta rating dan komentar
+
+- Fitur :  
+  - Splash Screen  
+  - Search Bar
+  - Pilihan Hotel
+  - Detail Hotel
+  - Map
+ 
+Berikut rancangan awal aplikasi dari layout hingga jadi aplikasi, serta pengertian setiap activity
+
 # StoryBoard  
   
 # Mockup  
