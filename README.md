@@ -24,6 +24,15 @@ Pengguna dapat mengetahui foto, fasilitas, dan deskripsi akomodasi, serta rating
  
 Berikut rancangan awal aplikasi dari layout hingga jadi aplikasi, serta pengertian setiap activity
 
+----------------------------------------
+- ### Nama Aplikasi :
+  CheckInAja  
+- ### Package :  
+  ```Java
+  hotel.review.appandroid
+  ```
+  Menunjukkan bahwa file ini adalah bagian dari paket aplikasi dengan nama tertentu.
+
 # StoryBoard  
   
 # Mockup  
