@@ -29,7 +29,7 @@ Berikut rancangan awal aplikasi dari layout hingga jadi aplikasi, serta pengerti
   CheckInAja  
 - ### Package :  
   ```Java
-  hotel.review.appandroid
+  package hotel.review.appandroid;
   ```
   Menunjukkan bahwa file ini adalah bagian dari paket aplikasi dengan nama tertentu.
 
