@@ -34,10 +34,16 @@ Berikut rancangan awal aplikasi dari layout hingga jadi aplikasi, serta pengerti
   Menunjukkan bahwa file ini adalah bagian dari paket aplikasi dengan nama tertentu.
 
 # StoryBoard  
+
+![storyboard](https://github.com/user-attachments/assets/33308fe5-d5ff-4c9a-8e29-d9cf0a0cfcd7)  
   
 # Mockup  
-  
+
+![mockup](https://github.com/user-attachments/assets/df3b2b16-c50e-4db7-8793-e9f1e03fa759)  
+
 # UI  
+
+![ui](https://github.com/user-attachments/assets/a25e0988-8fd3-4c89-93f8-d7c5accde828)  
   
 Hyperlink masing-masing penjelasan lengkap setiap activity : 
 - [Penjelasan Main Actvity](read/readMainActicvity.md)
